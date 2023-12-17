@@ -3,3 +3,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/d1098c1929f8741ffb21/maintainability)](https://codeclimate.com/github/MaximLosev90/java-project-61/maintainability)
 
 https://asciinema.org/a/627006
+
+https://asciinema.org/a/627356
+
